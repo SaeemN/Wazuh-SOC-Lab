@@ -90,8 +90,24 @@ During the investigation:
 
 ## Screenshots
 
-1. Attack Execution
-2. Sysmon Event ID 1
-3. Custom Wazuh Rule
-4. Wazuh Alert
-5. Investigation View
+## Screenshots
+
+### Attack Execution
+
+![Attack Execution](Screenshots/attack_execution.png)
+
+### Sysmon Evidence
+
+![Sysmon Event](Screenshots/sysmon_event.png)
+
+### Custom Wazuh Detection Rule
+
+![Custom Rule](Screenshots/custom_rule.png)
+
+### Wazuh Alert
+
+![Wazuh Alert](Screenshots/wazuh_alert.png)
+
+### Investigation View
+
+![Investigation View](Screenshots/investigation_view.png)
