@@ -90,8 +90,6 @@ During the investigation:
 
 ## Screenshots
 
-## Screenshots
-
 ### Attack Execution
 
 ![Attack Execution](Screenshots/attack_execution.png)
