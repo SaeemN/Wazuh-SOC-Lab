@@ -92,20 +92,20 @@ During the investigation:
 
 ### Attack Execution
 
-![Attack Execution](Screenshots/attack_execution.png)
+![Attack Execution](Screenshots/attack_execution.jpg)
 
 ### Sysmon Evidence
 
-![Sysmon Event](Screenshots/sysmon_event.png)
+![Sysmon Event](Screenshots/sysmon_event.jpg)
 
 ### Custom Wazuh Detection Rule
 
-![Custom Rule](Screenshots/custom_rule.png)
+![Custom Rule](Screenshots/custom_rule.jpg)
 
 ### Wazuh Alert
 
-![Wazuh Alert](Screenshots/wazuh_alert.png)
+![Wazuh Alert](Screenshots/wazuh_alert.jpg)
 
 ### Investigation View
 
-![Investigation View](Screenshots/investigation_view.png)
+![Investigation View](Screenshots/investigation_view.jpg)
