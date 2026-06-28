@@ -39,14 +39,13 @@ The objective of this project is to strengthen practical blue-team skills while 
 | 02  | Scheduled Task Persistence             | T1053.005         | ✅      |
 | 03  | Registry Run Key Persistence           | T1547.001         | ✅      |
 | 04  | PowerShell Download Cradle             | T1059.001 / T1105 | ✅      |
-| 05  | PowerShell Base64 Obfuscation          | T1059.001         | 🚧     |
-| 06  | Certutil File Download                 | T1105             | 🚧     |
-| 07  | BITSAdmin Abuse                        | T1197             | 🚧     |
-| 08  | WMI Process Execution                  | T1047             | 🚧     |
-| 09  | PsExec Lateral Movement                | T1021.002         | 🚧     |
-| 10  | Mimikatz Credential Dumping Simulation | T1003             | 🚧     |
-| 11  | RDP Lateral Movement                   | T1021.001         | 🚧     |
-| 12  | Pass-the-Hash Simulation               | T1550.002         | 🚧     |
+| 05  | Certutil File Download                 | T1105             | 🚧     |
+| 06  | BITSAdmin Abuse                        | T1197             | 🚧     |
+| 07  | WMI Process Execution                  | T1047             | 🚧     |
+| 08  | PsExec Lateral Movement                | T1021.002         | 🚧     |
+| 09  | Mimikatz Credential Dumping Simulation | T1003             | 🚧     |
+| 10  | RDP Lateral Movement                   | T1021.001         | 🚧     |
+| 11  | Pass-the-Hash Simulation               | T1550.002         | 🚧     |
 
 ---
 
