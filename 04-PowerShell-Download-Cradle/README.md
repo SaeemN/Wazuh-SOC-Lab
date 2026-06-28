@@ -141,19 +141,19 @@ Attackers commonly abuse `Invoke-WebRequest` to retrieve additional payloads fro
 
 ### Attack Execution
 
-![attack execution](Screenshots/attack_execution.jpg)
+![attack execution](screenshots/attack_execution.jpg)
 
 ### Download Verification
 
-![downloaded File](Screenshots/downloaded_file.jpg)
+![downloaded File](screenshots/downloaded_file.jpg)
 
 ### Sysmon File Creation Event
 
-![sysmon Event](Screenshots/sysmon_file_creation.jpg)
+![sysmon Event](screenshots/sysmon_file_creation.jpg)
 
 ### HTTP Request on Kali
 
-![kali HTTP Server](Screenshots/kali_http_request.jpg)
+![kali HTTP Server](screenshots/kali_http_request.jpg)
 
 ---
 
