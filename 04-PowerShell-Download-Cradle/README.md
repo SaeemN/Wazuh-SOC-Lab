@@ -155,6 +155,9 @@ Attackers commonly abuse `Invoke-WebRequest` to retrieve additional payloads fro
 
 ![kali HTTP Server](screenshots/kali_http_request.jpg)
 
+### Alert Detected on Wazuh
+![Wazuh Detection](screenshots/wazuh_detection.jpg)
+
 ---
 
 # Outcome
