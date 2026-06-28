@@ -141,7 +141,7 @@ Attackers commonly abuse `Invoke-WebRequest` to retrieve additional payloads fro
 
 ### Attack Execution
 
-![attack Execution](Screenshots/attack_execution.jpg)
+![attack execution](Screenshots/attack_execution.jpg)
 
 ### Download Verification
 
