@@ -65,27 +65,6 @@ The objective of this project is to strengthen practical blue-team skills while 
 
 ---
 
-## Repository Structure
-
-```text
-SOC-Detection-Labs
-│
-├── 01-PowerShell-EncodedCommand
-├── 02-Scheduled-Task-Persistence
-├── 03-Registry-RunKey-Persistence
-├── 04-PowerShell-Download-Cradle
-├── 05-PowerShell-Base64-Obfuscation
-├── 06-Certutil-Download
-├── 07-BITSAdmin-Abuse
-├── 08-WMI-Execution
-├── 09-PsExec-Lateral-Movement
-├── 10-Mimikatz-Simulation
-├── 11-RDP-Lateral-Movement
-└── 12-Pass-the-Hash-Simulation
-```
-
----
-
 ## Learning Objectives
 
 * Understand common attacker techniques.
