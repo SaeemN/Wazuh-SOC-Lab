@@ -1,4 +1,4 @@
-# Lab 07 – WMI Process Execution Detection (MITRE ATT&CK T1047)
+# Lab 05 – WMI Process Execution Detection (MITRE ATT&CK T1047)
 
 ## Objective
 
